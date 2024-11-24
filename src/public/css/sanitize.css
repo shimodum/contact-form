@@ -405,7 +405,7 @@ textarea {
     /* 1 */
 
     appearance: textfield;
-    /* この部分を追加！ 標準プロパティ エラーメッセージの日本語訳: 「互換性のために標準プロパティ 'appearance' も定義してください（-webkit-appearance はSafariやChromeなどのWebkitブラウザに対応するためのプロパティですが、他のブラウザでもスタイルを統一するには標準の appearance も追加する必要があります。）」*/
+    /* この部分を追加  標準プロパティ エラーメッセージの日本語訳: 「互換性のために標準プロパティ 'appearance' も定義してください（-webkit-appearance はSafariやChromeなどのWebkitブラウザに対応するためのプロパティですが、他のブラウザでもスタイルを統一するには標準の appearance も追加する必要があります。）」*/
 }
 
 /**
